@@ -1,1 +1,0 @@
-# AI-powered-real-time-traffic-violation-monitoring-License-Plate-Recognition-SMS-Email-Alerts
