@@ -657,4 +657,4 @@ This project is developed for academic purposes as a Final Year Project at **UET
 
 ---
 
-*Vehicle Violation Detection System · By Musaawar Khan · UET Peshawar*
+*Vehicle Violation Detection System · By Abdul Musawair· UET Peshawar*
