@@ -2,7 +2,7 @@
 
 > **AI-powered real-time traffic violation monitoring — Wrong Direction Detection · Helmetless Rider Detection · License Plate Recognition · SMS & Email Alerts**
 
-**By Musaawar Khan** | Final Year Project | UET Peshawar — Department of Data Science
+**By Abdul Musawair Khan** | Final Year Project | UET Peshawar — Department of Data Science
 Supervised by **Dr. Imran Khalil**
 
 ---
